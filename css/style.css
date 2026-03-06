@@ -64,3 +64,8 @@ button:hover{
     color: red;
    
 }
+.tasks,h5{
+    text-align: center;
+    background: black;
+    margin-top: 150px;
+}
